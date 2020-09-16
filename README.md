@@ -18,3 +18,6 @@ Popular sensor-based fall detection methods are obtrusive and inconvenient for i
 * To trigger an alert system in response to emergency condition such as fainting  to provide medical assistance within the “Golden Hour”
 * To perform analysis on gait cycles to infer additional gait and human characteristics 
 
+### Poster
+
+![Image](https://skulkarni307.github.io/img/gait_analysis_poster.jpg)
